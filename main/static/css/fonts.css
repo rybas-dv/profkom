@@ -1,0 +1,18 @@
+@font-face {
+	font-family:"PtSerifRegular";
+	src: url("../fonts/PTSerif/PTSerifRegular/PTSerifRegular.eot");
+	src: url("../fonts/PTSerif/PTSerifRegular/PTSerifRegular.eot?#ieflix")format("embedded-opentype"),
+	url("../fonts/PTSerif/PTSerifRegular/PTSerifRegular.woff")format("woff"),
+	url("../fonts/PTSerif/PTSerifRegular/PTSerifRegular.ttf")format("truetype");
+	font-style: normal;
+	font-weight: normal;
+	
+}
+
+@font-face {
+	font-family:"LoraRegular";
+	src:url(../fonts/Lora/Lora-Regular.ttf);
+	font-style: normal;
+	font-weight: normal;
+	
+}
