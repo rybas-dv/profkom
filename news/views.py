@@ -2,6 +2,7 @@ from django.shortcuts import render
 from .models import *
 
 # Create your views here.
+
 def home(request):
     return render(request, 'prof/home.html')
 
@@ -13,5 +14,5 @@ def documents(request):
     return render(request, 'prof/documents.html', context)
 
 def base(request):
-    return render(request, 'prof/base.html') 	
- 	
+    return render(request, 'prof/base.html')
+
