@@ -18,8 +18,8 @@ from django.contrib import admin
 from . import views
 
 urlpatterns =[
-    url(r'^home', views.home, name='home'),
-    url(r'^documents/', views.documents, name='documents'),
-    url(r'^base/', views.base, name='base'),
+    # url(r'^/', views.home, name='home'),
+    url(r'^smotri-konkurs/', views.smotrikonkurs, name='smotri-konkurs'),
+    # url(r'^base/', views.base, name='base'),
 
 ]

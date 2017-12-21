@@ -20,10 +20,10 @@ admin.autodiscover()
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
+    url(r'^', include('news_sobytia.urls')),
     url(r'^', include('main.urls')),
     url(r'^', include('contacts.urls')),
     url(r'^', include('documents.urls')),
-    url(r'^', include('news.urls')),
     url(r'^', include('profsouz_app.urls')),
 
 

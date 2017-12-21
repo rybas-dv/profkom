@@ -1,0 +1,16 @@
+{% extends 'prof/base.html' %}
+{% load static %}
+{% block title %}
+{% endblock %}
+
+    {% block statia %}
+        <div class="jumbotron">
+                        {% for smotr in smotr %}
+                        {{ smotr.text }}
+                        {% endfor %}
+                     </div>
+
+    {% endblock %}
+
+
+

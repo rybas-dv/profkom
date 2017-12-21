@@ -5,7 +5,7 @@ from django.shortcuts import render
 #     return render(request, 'prof/base.html')
 #
 # def documents(request):
-#     return render(request, 'prof/documents.html')
+#     return render(request, 'prof/smotri-konkurs.html')
 #
 # def base(request):
 #     return render(request, 'prof/home.html')

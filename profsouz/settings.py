@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'main',
     'contacts',
     'documents',
-    'news',
+    'news_sobytia',
     'profsouz_app',
 
 

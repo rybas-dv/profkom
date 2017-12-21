@@ -2,87 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4408fda-35d9-4286-bfc5-d8d3d75a3430" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/123.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/Снимок_экрана_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news/migrations/0003_auto_20171221_1518.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/minudo_white.jpg.png" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/css/bootstrap.css" afterPath="$PROJECT_DIR$/static/css/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/static/css/bootstrap.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/css/fonts.css" afterPath="$PROJECT_DIR$/static/css/fonts.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/css/main.css" afterPath="$PROJECT_DIR$/static/css/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/Lora/Lora-Bold.ttf" afterPath="$PROJECT_DIR$/static/fonts/Lora/Lora-Bold.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/Lora/Lora-BoldItalic.ttf" afterPath="$PROJECT_DIR$/static/fonts/Lora/Lora-BoldItalic.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/Lora/Lora-Italic.ttf" afterPath="$PROJECT_DIR$/static/fonts/Lora/Lora-Italic.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/Lora/Lora-Regular.ttf" afterPath="$PROJECT_DIR$/static/fonts/Lora/Lora-Regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/Lora/OFL.txt" afterPath="$PROJECT_DIR$/static/fonts/Lora/OFL.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/PTSerif/PTSerifBold/PTSerifBold.eot" afterPath="$PROJECT_DIR$/static/fonts/PTSerif/PTSerifBold/PTSerifBold.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/PTSerif/PTSerifBold/PTSerifBold.ttf" afterPath="$PROJECT_DIR$/static/fonts/PTSerif/PTSerifBold/PTSerifBold.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/PTSerif/PTSerifBold/PTSerifBold.woff" afterPath="$PROJECT_DIR$/static/fonts/PTSerif/PTSerifBold/PTSerifBold.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/PTSerif/PTSerifBoldItalic/PTSerifBoldItalic.eot" afterPath="$PROJECT_DIR$/static/fonts/PTSerif/PTSerifBoldItalic/PTSerifBoldItalic.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/PTSerif/PTSerifBoldItalic/PTSerifBoldItalic.ttf" afterPath="$PROJECT_DIR$/static/fonts/PTSerif/PTSerifBoldItalic/PTSerifBoldItalic.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/PTSerif/PTSerifBoldItalic/PTSerifBoldItalic.woff" afterPath="$PROJECT_DIR$/static/fonts/PTSerif/PTSerifBoldItalic/PTSerifBoldItalic.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/PTSerif/PTSerifItalic/PTSerifItalic.eot" afterPath="$PROJECT_DIR$/static/fonts/PTSerif/PTSerifItalic/PTSerifItalic.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/PTSerif/PTSerifItalic/PTSerifItalic.ttf" afterPath="$PROJECT_DIR$/static/fonts/PTSerif/PTSerifItalic/PTSerifItalic.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/PTSerif/PTSerifItalic/PTSerifItalic.woff" afterPath="$PROJECT_DIR$/static/fonts/PTSerif/PTSerifItalic/PTSerifItalic.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/PTSerif/PTSerifRegular/PTSerifRegular.eot" afterPath="$PROJECT_DIR$/static/fonts/PTSerif/PTSerifRegular/PTSerifRegular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/PTSerif/PTSerifRegular/PTSerifRegular.ttf" afterPath="$PROJECT_DIR$/static/fonts/PTSerif/PTSerifRegular/PTSerifRegular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/PTSerif/PTSerifRegular/PTSerifRegular.woff" afterPath="$PROJECT_DIR$/static/fonts/PTSerif/PTSerifRegular/PTSerifRegular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/Header/background/back_header.jpg" afterPath="$PROJECT_DIR$/static/img/Header/background/back_header.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/Header/background/back_header2.jpg" afterPath="$PROJECT_DIR$/static/img/Header/background/back_header2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/Header/bottom_line/FNPR.jpg" afterPath="$PROJECT_DIR$/static/img/Header/bottom_line/FNPR.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/Header/bottom_line/Minudo_bottom.jpg.png" afterPath="$PROJECT_DIR$/static/img/Header/bottom_line/Minudo_bottom.jpg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/Header/bottom_line/ROSHIM.jpg.png" afterPath="$PROJECT_DIR$/static/img/Header/bottom_line/ROSHIM.jpg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/Header/bottom_line/Solid.jpg.png" afterPath="$PROJECT_DIR$/static/img/Header/bottom_line/Solid.jpg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/Header/bottom_line/friend_back.jpg" afterPath="$PROJECT_DIR$/static/img/Header/bottom_line/friend_back.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/Header/head/check_predstav.jpg" afterPath="$PROJECT_DIR$/static/img/Header/head/check_predstav.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/Header/head/check_sovremen.jpg" afterPath="$PROJECT_DIR$/static/img/Header/head/check_sovremen.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/Header/head/check_zashita.jpg" afterPath="$PROJECT_DIR$/static/img/Header/head/check_zashita.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/Header/head/profkom_logo.png" afterPath="$PROJECT_DIR$/static/img/Header/head/profkom_logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/Header/top_line/menu/Minudo_header.jpg" afterPath="$PROJECT_DIR$/static/img/Header/top_line/menu/Minudo_header.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/Header/top_line/menu/Minudo_header.jpg.png" afterPath="$PROJECT_DIR$/static/img/Header/top_line/menu/Minudo_header.jpg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/Header/top_line/phone/phone_icon.jpg" afterPath="$PROJECT_DIR$/static/img/Header/top_line/phone/phone_icon.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/favicon/favicon.png" afterPath="$PROJECT_DIR$/static/img/favicon/favicon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/footer/minudo_white.jpg.png" afterPath="$PROJECT_DIR$/static/img/footer/minudo_white.jpg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/footer/profkom_footer.jpg" afterPath="$PROJECT_DIR$/static/img/footer/profkom_footer.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/footer/profkom_footer.jpg.png" afterPath="$PROJECT_DIR$/static/img/footer/profkom_footer.jpg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/section1/boss.jpg" afterPath="$PROJECT_DIR$/static/img/section1/boss.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/section1/boss.jpg.png" afterPath="$PROJECT_DIR$/static/img/section1/boss.jpg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/section1/boss_grey.jpg" afterPath="$PROJECT_DIR$/static/img/section1/boss_grey.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/section1/section1_back.jpg" afterPath="$PROJECT_DIR$/static/img/section1/section1_back.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/section2/information.png" afterPath="$PROJECT_DIR$/static/img/section2/information.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/section2/rectangle.jpg" afterPath="$PROJECT_DIR$/static/img/section2/rectangle.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/section2/section2_back.jpg" afterPath="$PROJECT_DIR$/static/img/section2/section2_back.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/section3/map.jpg" afterPath="$PROJECT_DIR$/static/img/section3/map.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/img/section3/section3_back.jpg" afterPath="$PROJECT_DIR$/static/img/section3/section3_back.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/js/bootstrap.js" afterPath="$PROJECT_DIR$/static/js/bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/js/common.js" afterPath="$PROJECT_DIR$/static/js/common.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/static/js/npm.js" afterPath="$PROJECT_DIR$/static/js/npm.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/templates/prof/base.html" afterPath="$PROJECT_DIR$/templates/prof/home.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/templates/prof/documents.html" afterPath="$PROJECT_DIR$/templates/prof/documents.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/templates/prof/home.html" afterPath="$PROJECT_DIR$/templates/prof/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contacts/views.py" afterPath="$PROJECT_DIR$/contacts/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documents/views.py" afterPath="$PROJECT_DIR$/documents/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/urls.py" afterPath="$PROJECT_DIR$/main/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/views.py" afterPath="$PROJECT_DIR$/main/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news/urls.py" afterPath="$PROJECT_DIR$/news/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news/views.py" afterPath="$PROJECT_DIR$/news/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/profsouz_app/views.py" afterPath="$PROJECT_DIR$/profsouz_app/views.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/profsouz.iml" afterPath="$PROJECT_DIR$/.idea/profsouz.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/contacts/views.py" afterPath="$PROJECT_DIR$/contacts/views.py" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change beforePath="$PROJECT_DIR$/documents/views.py" afterPath="$PROJECT_DIR$/documents/views.py" />
+      <change beforePath="$PROJECT_DIR$/main/urls.py" afterPath="$PROJECT_DIR$/main/urls.py" />
+      <change beforePath="$PROJECT_DIR$/main/views.py" afterPath="$PROJECT_DIR$/main/views.py" />
+      <change beforePath="$PROJECT_DIR$/news/__init__.py" afterPath="$PROJECT_DIR$/news_sobytia/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/news/admin.py" afterPath="$PROJECT_DIR$/news_sobytia/admin.py" />
+      <change beforePath="$PROJECT_DIR$/news/forms.py" afterPath="$PROJECT_DIR$/news_sobytia/forms.py" />
+      <change beforePath="$PROJECT_DIR$/news/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/news_sobytia/migrations/0001_initial.py" />
+      <change beforePath="$PROJECT_DIR$/news/migrations/0002_auto_20171214_2057.py" afterPath="$PROJECT_DIR$/news_sobytia/migrations/0002_auto_20171214_2057.py" />
+      <change beforePath="$PROJECT_DIR$/news/migrations/0003_auto_20171221_1518.py" afterPath="$PROJECT_DIR$/news_sobytia/migrations/0003_auto_20171221_1518.py" />
+      <change beforePath="$PROJECT_DIR$/news/migrations/__init__.py" afterPath="$PROJECT_DIR$/news_sobytia/migrations/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/news/models.py" afterPath="$PROJECT_DIR$/news_sobytia/models.py" />
+      <change beforePath="$PROJECT_DIR$/news/urls.py" afterPath="$PROJECT_DIR$/news_sobytia/urls.py" />
+      <change beforePath="$PROJECT_DIR$/news/views.py" afterPath="$PROJECT_DIR$/news_sobytia/views.py" />
+      <change beforePath="$PROJECT_DIR$/profsouz/settings.py" afterPath="$PROJECT_DIR$/profsouz/settings.py" />
+      <change beforePath="$PROJECT_DIR$/profsouz/urls.py" afterPath="$PROJECT_DIR$/profsouz/urls.py" />
+      <change beforePath="$PROJECT_DIR$/profsouz_app/views.py" afterPath="$PROJECT_DIR$/profsouz_app/views.py" />
+      <change beforePath="$PROJECT_DIR$/templates/prof/base.html" afterPath="$PROJECT_DIR$/templates/prof/base.html" />
+      <change beforePath="$PROJECT_DIR$/templates/prof/documents.html" afterPath="$PROJECT_DIR$/templates/prof/smotri-konkurs.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -97,30 +38,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news/urls.py">
+        <entry file="file://$PROJECT_DIR$/news_sobytia/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-              <folding />
+            <state relative-caret-position="441">
+              <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+              <folding>
+                <element signature="e#642#683#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="documents.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/prof/documents.html">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news_sobytia/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-              <folding />
+            <state relative-caret-position="588">
+              <caret line="28" column="42" lean-forward="false" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/prof/home.html">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news_sobytia/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2278">
-              <caret line="134" column="40" lean-forward="true" selection-start-line="134" selection-start-column="40" selection-end-line="134" selection-end-column="40" />
+            <state relative-caret-position="147">
+              <caret line="7" column="63" lean-forward="false" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="smotri-konkurs.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/prof/smotri-konkurs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -129,65 +86,19 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/prof/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1156">
+            <state relative-caret-position="274">
               <caret line="68" column="35" lean-forward="true" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/css/bootstrap.min.css">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/prof/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6018">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="500">
+              <caret line="112" column="102" lean-forward="false" selection-start-line="112" selection-start-column="102" selection-end-line="112" selection-end-column="102" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="123.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/img/123.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Снимок_экрана_1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/img/Снимок_экрана_1.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/static/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="292" column="0" lean-forward="true" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fonts.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/css/fonts.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -231,7 +142,6 @@
         <option value="$PROJECT_DIR$/prof/views.py" />
         <option value="$PROJECT_DIR$/prof/templates/prof/documents.html" />
         <option value="$PROJECT_DIR$/profsouz/settings.py" />
-        <option value="$PROJECT_DIR$/profsouz/urls.py" />
         <option value="$PROJECT_DIR$/documents/admin.py" />
         <option value="$PROJECT_DIR$/doings/admin.py" />
         <option value="$PROJECT_DIR$/profsouz_app/admin.py" />
@@ -247,17 +157,24 @@
         <option value="$PROJECT_DIR$/profsouz_app/urls.py" />
         <option value="$PROJECT_DIR$/profsouz_app/views.py" />
         <option value="$PROJECT_DIR$/news/admin.py" />
-        <option value="$PROJECT_DIR$/news/models.py" />
         <option value="$PROJECT_DIR$/main/templates/prof/home.html" />
         <option value="$PROJECT_DIR$/main/templates/prof/base.html" />
         <option value="$PROJECT_DIR$/main/templates/prof/documents.html" />
+        <option value="$PROJECT_DIR$/static/css/main.css" />
+        <option value="$PROJECT_DIR$/templates/prof/home.html" />
+        <option value="$PROJECT_DIR$/profsouz/urls.py" />
         <option value="$PROJECT_DIR$/templates/prof/documents.html" />
         <option value="$PROJECT_DIR$/news/urls.py" />
-        <option value="$PROJECT_DIR$/main/views.py" />
         <option value="$PROJECT_DIR$/main/urls.py" />
         <option value="$PROJECT_DIR$/news/views.py" />
+        <option value="$PROJECT_DIR$/news/models.py" />
+        <option value="$PROJECT_DIR$/main/views.py" />
+        <option value="$PROJECT_DIR$/news_sobytia/urls.py" />
+        <option value="$PROJECT_DIR$/news_sobytia/admin.py" />
+        <option value="$PROJECT_DIR$/news_sobytia/models.py" />
+        <option value="$PROJECT_DIR$/news_sobytia/views.py" />
         <option value="$PROJECT_DIR$/templates/prof/base.html" />
-        <option value="$PROJECT_DIR$/static/css/main.css" />
+        <option value="$PROJECT_DIR$/templates/prof/smotri-konkurs.html" />
       </list>
     </option>
   </component>
@@ -314,7 +231,7 @@
             <path>
               <item name="profkom" type="b2602c69:ProjectViewProjectNode" />
               <item name="profkom" type="462c0819:PsiDirectoryNode" />
-              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="news_sobytia" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="profkom" type="b2602c69:ProjectViewProjectNode" />
@@ -325,36 +242,6 @@
               <item name="profkom" type="b2602c69:ProjectViewProjectNode" />
               <item name="profkom" type="462c0819:PsiDirectoryNode" />
               <item name="profsouz_app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="profkom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="profkom" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="profkom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="profkom" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="profkom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="profkom" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="profkom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="profkom" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-              <item name="Lora" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="profkom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="profkom" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="profkom" type="b2602c69:ProjectViewProjectNode" />
@@ -381,18 +268,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\PycharmProjects\profsouz\profsouz_app" />
-      <recent name="C:\PycharmProjects\profsouz\contacts" />
-      <recent name="C:\PycharmProjects\profsouz\documents" />
-      <recent name="C:\PycharmProjects\profsouz\doings" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\PycharmProjects\profkom\templates" />
       <recent name="C:\PycharmProjects\profkom\main\templates" />
       <recent name="C:\PycharmProjects\profkom\templates\prof" />
       <recent name="C:\PycharmProjects\profkom" />
       <recent name="C:\PycharmProjects\profsouz\prof" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PycharmProjects\profsouz\profsouz_app" />
+      <recent name="C:\PycharmProjects\profsouz\contacts" />
+      <recent name="C:\PycharmProjects\profsouz\documents" />
+      <recent name="C:\PycharmProjects\profsouz\doings" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -407,7 +294,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Django server.profsouz">
+  <component name="RunManager">
     <configuration name="profsouz" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -435,6 +322,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b4408fda-35d9-4286-bfc5-d8d3d75a3430" name="Default" comment="" />
@@ -455,30 +345,32 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32719395" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26868907" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19083156" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33748585" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26840317" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19656284" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.3997735" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="manage.py@profsouz" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3351709" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32936078" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,13 +393,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/migrations/0001_initial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/main/migrations/0001_initial.py" />
     <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-273572998/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -536,13 +422,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/profsouz/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python36-32/Lib/site-packages/django/conf/urls/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -552,280 +431,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main/apps.py" />
     <entry file="file://$PROJECT_DIR$/main/tests.py" />
-    <entry file="file://$PROJECT_DIR$/profsouz_app/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contacts/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contacts/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contacts/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/profsouz_app/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/profsouz_app/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contacts/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/profsouz_app/admin.py" />
+    <entry file="file://$PROJECT_DIR$/contacts/admin.py" />
+    <entry file="file://$PROJECT_DIR$/contacts/forms.py" />
+    <entry file="file://$PROJECT_DIR$/contacts/models.py" />
+    <entry file="file://$PROJECT_DIR$/profsouz_app/forms.py" />
+    <entry file="file://$PROJECT_DIR$/documents/forms.py" />
+    <entry file="file://$PROJECT_DIR$/documents/admin.py" />
+    <entry file="file://$PROJECT_DIR$/profsouz_app/models.py" />
+    <entry file="file://$PROJECT_DIR$/documents/models.py" />
+    <entry file="file://$PROJECT_DIR$/main/forms.py" />
+    <entry file="file://$PROJECT_DIR$/contacts/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/news_sobytia/forms.py" />
+    <entry file="file://$PROJECT_DIR$/news_sobytia/__init__.py" />
     <entry file="file://$PROJECT_DIR$/static/img/favicon.png" />
-    <entry file="file://$PROJECT_DIR$/contacts/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="10" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="10" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/profsouz_app/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="10" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contacts/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/img/footer/minudo_white.jpg.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/profsouz/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="43" column="19" lean-forward="false" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/profsouz/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/profsouz_app/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="22" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/profsouz/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="e#642#683#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/prof/documents.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/prof/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2278">
-          <caret line="134" column="40" lean-forward="true" selection-start-line="134" selection-start-column="40" selection-end-line="134" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/prof/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="35" lean-forward="true" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/main/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/main/admin.py" />
+    <entry file="file://$PROJECT_DIR$/profsouz/settings.py" />
     <entry file="file://$PROJECT_DIR$/static/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6018">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -843,7 +473,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/fonts.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="273">
           <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
           <folding />
         </state>
@@ -851,8 +481,174 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="292" column="0" lean-forward="true" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
+        <state relative-caret-position="724">
+          <caret line="292" column="0" lean-forward="false" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacts/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacts/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="10" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profsouz/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profsouz/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documents/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documents/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profsouz/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding>
+            <element signature="e#642#683#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profsouz_app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="10" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profsouz_app/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news_sobytia/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding>
+            <element signature="e#642#683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news_sobytia/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="e#642#683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/prof/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="112" column="102" lean-forward="false" selection-start-line="112" selection-start-column="102" selection-end-line="112" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news_sobytia/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="63" lean-forward="false" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news_sobytia/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" column="42" lean-forward="false" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/prof/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="68" column="35" lean-forward="true" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/prof/smotri-konkurs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
           <folding />
         </state>
       </provider>
