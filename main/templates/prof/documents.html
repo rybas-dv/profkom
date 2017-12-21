@@ -1,10 +1,13 @@
 {% extends 'prof/home.html' %}
 
 {% block title %}
-home
 {% endblock %}
 
 {% block content %}
-111111555
+    asdasdas
+{% for news in news %}
+{{news.name}}
+{{news.text}}
+{% endfor %}
 {% endblock %}
 
